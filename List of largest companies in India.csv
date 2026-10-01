@@ -1,0 +1,271 @@
+Rank,Forbes 2000 rank,Name,Headquarters,Revenue(billions US$),Profit(billions US$),Assets(billions US$),Value(billions US$),Industry,Profit Margin (%)
+1,54,Reliance Industries,Mumbai,86.85,7.81,192.59,228.63,Conglomerate,8.99251583189407
+2,105,State Bank of India,Mumbai,54.52,4.32,696.51,58.39,Banking,7.923697725605283
+3,154,HDFC Bank,Mumbai,22.51,5.11,280.16,98.28,Banking,22.701021768103065
+4,205,ICICI Bank,Mumbai,21.89,3.01,226.39,67.9,Banking,13.750571037003196
+5,229,Oil and Natural Gas Corporation,New Delhi,66.28,6.0,75.51,28.62,Oil and gas,9.052504526252262
+6,269,HDFC,Mumbai,18.48,2.91,118.61,52.3,Financials,15.746753246753247
+7,358,Indian Oil Corporation,New Delhi,72.2,3.72,51.73,16.53,Oil and gas,5.15235457063712
+8,385,Tata Consultancy Services,Mumbai,25.73,5.14,18.68,172.79,Infotech,19.97668091721725
+9,408,Tata Steel,Kolkata,31.07,5.01,34.62,20.42,Iron and steel,16.124879304795623
+10,432,Axis Bank,Mumbai,11.41,1.71,152.12,31.32,Banking,14.986853637160385
+11,484,NTPC Limited,New Delhi,17.0,2.17,55.0,20.32,Utilities,12.764705882352942
+12,514,Larsen & Toubro,Mumbai,20.53,1.12,40.82,31.13,Capital goods,5.455431076473453
+13,539,Infosys,Bangalore,16.33,2.97,15.56,87.21,Infotech,18.18738518064912
+14,574,JSW Steel Ltd,Mumbai,9.5,0.5,17.4,20.1,Iron and steel,5.263157894736842
+15,593,Vedanta Limited,Mumbai,16.38,2.63,25.3,20.21,Metals and mining,16.056166056166056
+16,615,Bharat Petroleum,Mumbai,43.2,2.59,25.18,11.16,Oil and gas,5.995370370370369
+17,628,Kotak Mahindra Bank,Mumbai,7.92,1.46,41.57,44.83,Banking,18.434343434343432
+18,643,Hindalco Industries,Mumbai,24.33,1.6,27.45,15.11,Metals and mining,6.576243321002878
+19,710,Bharti Airtel,New Delhi,14.98,0.406,48.72,56.8,Telecommunication,2.710280373831776
+20,726,Coal India,Kolkata,14.03,2.06,22.3,16.3,Metals and mining,14.68282252316465
+21,729,Tata Motors,Mumbai,39.04,,42.32,22.12,Automotive,
+22,789,Power Finance Corporation,New Delhi,10.15,1.86,106.71,4.1,Financials,18.32512315270936
+23,809,HCL Technologies,Noida,11.19,1.49,11.57,39.09,Infotech,13.315460232350311
+24,820,Wipro,Bangalore,10.07,1.64,13.69,38.44,Infotech,16.28599801390268
+25,822,Power Grid Corporation of India,Gurgaon,5.61,2.19,34.56,20.57,Utilities,39.03743315508021
+26,827,Grasim Industries,Mumbai,12.35,0.87,36.94,14.77,Diversified,7.044534412955465
+27,846,ITC Limited,Kolkata,7.91,2.0,10.04,42.06,Consumer Goods,25.28445006321112
+28,876,Bajaj Finserv,Pune,8.64,0.56,41.54,32.15,Financials,6.481481481481481
+29,925,Canara Bank,Bangalore,12.68,0.73,164.71,5.53,Banking,5.757097791798108
+30,954,Bank of Baroda,Vadodara,12.06,0.68,167.76,7.54,Banking,5.638474295190713
+31,1000,Union Bank of India,Mumbai,11.28,0.67,148.94,3.62,Banking,5.939716312056738
+32,1041,Punjab National Bank,New Delhi,12.1,0.57,178.94,5.1,Banking,4.710743801652892
+33,1063,Mahindra & Mahindra,Mumbai,11.59,0.73,22.36,14.96,Automotive,6.298533218291631
+34,1171,Steel Authority of India,New Delhi,12.98,1.79,15.87,5.48,Iron and steel,13.7904468412943
+35,1215,GAIL,New Delhi,10.98,1.53,12.03,9.52,Oil and gas,13.934426229508196
+36,1348,Indian Bank,Chennai,6.17,0.65,89.96,2.63,Banking,10.53484602917342
+37,1362,Sun Pharmaceutical,Mumbai,5.1,0.87,9.3,28.97,Pharmaceuticals,17.058823529411764
+38,1514,Indian Railway Finance Corporation,New Delhi,2.55,0.82,58.03,3.83,Financials,32.15686274509804
+39,1453,Adani Enterprises,Ahmedabad,7.86,0.09,11.09,32.7,Consumer Goods,1.1450381679389312
+40,1472,IndusInd Bank,Mumbai,5.09,0.58,51.26,9.72,Banking,11.394891944990176
+41,1525,Bank of India,Mumbai,6.26,0.39,98.51,2.66,Banking,6.2300319488817895
+42,1489,Adani Ports & SEZ Limited,Ahmedabad,2.1,0.67,11.36,24.12,Shipping,31.90476190476191
+43,1570,Adani Green Energy,Ahmedabad,0.41,0.01,3.93,59.06,Renewable energy,2.4390243902439024
+44,1656,Rajesh Exports,Bangalore,30.0,0.15,2.7,2.5,Gems and jewellery,0.5
+45,1687,Asian Paints,Mumbai,3.77,0.41,2.84,39.69,Chemicals,10.875331564986736
+46,1705,Adani Transmission,Ahmedabad,1.49,0.16,6.11,38.15,Utilities,10.738255033557047
+47,1730,Tech Mahindra,Pune,5.72,0.69,5.51,16.61,Infotech,12.062937062937063
+48,1746,Adani Total Gas,Ahmedabad,0.35,0.07,0.5,34.74,Oil and gas,20.000000000000004
+49,1756,Bajaj Auto,Pune,4.54,0.83,4.51,13.79,Automotive,18.281938325991188
+50,1759,DMart,Mumbai,4.0,0.2,1.93,34.12,Retail,5.0
+51,,Life Insurance Corporation of India,Mumbai,90.0,4.8,500.0,70.0,Insurance,5.333333333333333
+52,,Hindustan Petroleum Corporation,Mumbai,52.0,1.0,22.0,9.0,Oil and gas,1.9230769230769231
+53,,Maruti Suzuki India,New Delhi,17.0,1.6,9.0,40.0,Automotive,9.411764705882353
+54,,Mangalore Refinery and Petrochemicals,Mangalore,12.5,0.3,3.5,2.8,Oil and gas,2.4
+55,,Samvardhana Motherson International,Noida,11.8,0.4,8.5,14.0,Automotive,3.389830508474576
+56,,SBI Life Insurance,Mumbai,11.0,0.25,43.0,19.0,Insurance,2.272727272727273
+57,,HDFC Life Insurance,Mumbai,9.5,0.2,35.0,16.0,Insurance,2.1052631578947367
+58,,Chennai Petroleum Corporation,Chennai,8.5,0.2,2.5,1.3,Oil and gas,2.3529411764705883
+59,,UltraTech Cement,Mumbai,8.4,0.85,11.0,35.0,Cement,10.119047619047619
+60,,InterGlobe Aviation (IndiGo),Gurgaon,8.1,1.0,8.5,20.0,Aviation,12.34567901234568
+61,,Hyundai Motor India,Gurgaon,7.4,0.7,3.5,17.0,Automotive,9.459459459459458
+62,,Hindustan Unilever,Mumbai,7.2,1.2,5.5,65.0,Consumer Goods,16.666666666666664
+63,,Tata Power,Mumbai,7.0,0.45,13.0,12.0,Utilities,6.42857142857143
+64,,Bajaj Finance,Pune,6.5,1.9,45.0,60.0,Financials,29.230769230769226
+65,,General Insurance Corporation of India,Mumbai,6.5,0.3,15.0,4.0,Insurance,4.615384615384615
+66,,Adani Power,Ahmedabad,6.3,1.3,10.0,25.0,Utilities,20.634920634920636
+67,,AWL Agri Business,Ahmedabad,6.2,0.02,2.0,4.0,Consumer Goods,0.3225806451612903
+68,,Titan Company,Bangalore,6.2,0.4,3.5,36.0,Gems and jewellery,6.451612903225806
+69,,ICICI Prudential Life Insurance,Mumbai,6.0,0.1,30.0,10.0,Insurance,1.6666666666666667
+70,,Jindal Steel & Power,New Delhi,6.0,0.8,9.0,9.0,Metals and mining,13.333333333333334
+71,,Vodafone Idea,Mumbai,5.7,-3.8,29.0,11.0,Telecommunication,-66.66666666666666
+72,,Petronet LNG,New Delhi,5.3,0.4,3.0,5.0,Oil and gas,7.547169811320756
+73,,UPL Limited,Mumbai,5.2,-0.2,10.5,5.0,Chemicals,-3.8461538461538463
+74,,REC Limited,New Delhi,5.0,1.5,60.0,13.0,Financials,30.0
+75,,Ashok Leyland,Chennai,5.0,0.4,4.5,7.0,Automotive,8.0
+76,,New India Assurance,Mumbai,4.8,0.12,10.0,3.5,Insurance,2.5
+77,,Hero MotoCorp,New Delhi,4.5,0.5,3.5,13.0,Automotive,11.11111111111111
+78,,LTIMindtree,Mumbai,4.4,0.55,3.5,17.0,Infotech,12.5
+79,,Oil India,Noida,4.3,0.8,11.0,11.0,Oil and gas,18.6046511627907
+80,,Ambuja Cements,Ahmedabad,4.3,0.55,9.5,18.0,Cement,12.790697674418606
+81,,Jindal Stainless,New Delhi,4.2,0.3,2.7,5.0,Metals and mining,7.142857142857142
+82,,Max Financial Services,New Delhi,4.0,0.1,19.0,4.0,Insurance,2.5
+83,,TVS Motor Company,Chennai,4.0,0.3,3.5,14.0,Automotive,7.5
+84,,Yes Bank,Mumbai,3.9,0.06,41.0,6.0,Banking,1.5384615384615383
+85,,IDBI Bank,Mumbai,3.9,0.55,36.0,10.0,Banking,14.102564102564106
+86,,Central Bank of India,Mumbai,3.8,0.2,45.0,3.5,Banking,5.2631578947368425
+87,,LIC Housing Finance,Mumbai,3.8,0.6,32.0,4.5,Financials,15.789473684210526
+88,,Patanjali Foods,Indore,3.8,0.13,1.9,7.0,Consumer Goods,3.421052631578948
+89,,Indian Overseas Bank,Chennai,3.7,0.3,36.0,6.5,Banking,8.108108108108107
+90,,Aditya Birla Capital,Mumbai,3.6,0.35,22.0,6.0,Financials,9.722222222222221
+91,,Indus Towers,Gurgaon,3.6,0.9,6.5,10.0,Telecommunication,25.0
+92,,Shriram Finance,Mumbai,3.5,0.9,30.0,15.0,Financials,25.71428571428572
+93,,Torrent Power,Ahmedabad,3.5,0.35,5.0,7.0,Utilities,10.0
+94,,Hindustan Zinc,Udaipur,3.5,1.1,3.8,23.0,Metals and mining,31.428571428571434
+95,,Aurobindo Pharma,Hyderabad,3.5,0.39,4.5,8.5,Pharmaceuticals,11.142857142857142
+96,,Hindustan Aeronautics,Bangalore,3.4,0.9,12.0,35.0,Capital goods,26.47058823529412
+97,,Dr. Reddy's Laboratories,Hyderabad,3.4,0.68,5.2,12.5,Pharmaceuticals,20.0
+98,,IDFC First Bank,Mumbai,3.2,0.35,25.0,5.5,Banking,10.937499999999998
+99,,Bharat Heavy Electricals,New Delhi,3.1,0.08,6.6,9.5,Capital goods,2.5806451612903225
+100,,Cipla,Mumbai,3.1,0.5,4.3,13.0,Pharmaceuticals,16.129032258064516
+101,,Federal Bank,Kochi,2.9,0.55,26.0,4.8,Banking,18.965517241379313
+102,,NMDC Limited,Hyderabad,2.9,0.75,4.5,8.0,Metals and mining,25.862068965517242
+103,,MRF Limited,Chennai,2.9,0.2,2.3,6.0,Automotive,6.896551724137931
+104,,Apollo Tyres,Gurgaon,2.9,0.22,3.0,3.8,Automotive,7.586206896551724
+105,,UCO Bank,Kolkata,2.8,0.25,30.0,4.0,Banking,8.928571428571429
+106,,Coromandel International,Secunderabad,2.7,0.2,2.6,7.0,Chemicals,7.4074074074074066
+107,,Bandhan Bank,Kolkata,2.6,0.3,17.0,3.9,Banking,11.538461538461538
+108,,ICICI Lombard General Insurance,Mumbai,2.6,0.3,5.0,10.0,Insurance,11.538461538461538
+109,,Bank of Maharashtra,Pune,2.5,0.35,26.0,3.5,Banking,13.999999999999998
+110,,Cholamandalam Investment and Finance,Chennai,2.5,0.5,20.0,12.0,Financials,20.0
+111,,ACC Limited,Ahmedabad,2.5,0.28,3.0,5.0,Cement,11.200000000000001
+112,,Varun Beverages,Gurgaon,2.5,0.4,2.0,22.0,Consumer Goods,16.0
+113,,Bharat Electronics,Bangalore,2.4,0.55,3.8,28.0,Capital goods,22.916666666666668
+114,,Eternal Limited (Zomato),Gurgaon,2.4,0.06,3.2,25.0,Retail,2.5
+115,,Lupin,Mumbai,2.4,0.17,3.5,9.5,Pharmaceuticals,7.083333333333335
+116,,Tata Communications,Mumbai,2.3,0.2,3.5,5.0,Infotech,8.695652173913045
+117,,APL Apollo Tubes,New Delhi,2.3,0.1,0.8,5.0,Metals and mining,4.347826086956522
+118,,Shree Cement,Kolkata,2.3,0.2,3.5,11.0,Cement,8.695652173913045
+119,,Rail Vikas Nigam,New Delhi,2.3,0.1,1.9,9.5,Capital goods,4.347826086956522
+120,,Nestle India,Gurgaon,2.3,0.45,1.3,27.0,Consumer Goods,19.565217391304348
+121,,Zydus Lifesciences,Ahmedabad,2.3,0.47,2.8,11.0,Pharmaceuticals,20.434782608695652
+122,,Apollo Hospitals Enterprise,Chennai,2.3,0.15,2.0,10.0,Healthcare,6.521739130434782
+123,,Havells India,Noida,2.2,0.18,1.8,12.0,Capital goods,8.18181818181818
+124,,Polycab India,Mumbai,2.2,0.25,1.3,11.0,Capital goods,11.363636363636363
+125,,Dixon Technologies,Noida,2.2,0.05,0.8,10.0,Capital goods,2.272727272727273
+126,,Kalyan Jewellers India,Thrissur,2.2,0.07,1.0,6.8,Gems and jewellery,3.181818181818182
+127,,Muthoot Finance,Kochi,2.0,0.7,9.5,7.0,Financials,35.0
+128,,SBI Cards and Payment Services,Gurgaon,2.0,0.28,6.5,9.0,Financials,14.000000000000002
+129,,Gujarat Gas,Ahmedabad,2.0,0.17,1.7,4.0,Oil and gas,8.5
+130,,Siemens India,Mumbai,2.0,0.24,2.8,28.0,Capital goods,12.0
+131,,Eicher Motors,New Delhi,2.0,0.5,2.7,13.0,Automotive,25.0
+132,,Britannia Industries,Bangalore,2.0,0.26,1.0,14.0,Consumer Goods,13.0
+133,,Chambal Fertilisers and Chemicals,Jaipur,2.0,0.13,1.9,2.5,Chemicals,6.5
+134,,AU Small Finance Bank,Jaipur,1.9,0.3,13.0,5.0,Banking,15.789473684210526
+135,,CESC Limited,Kolkata,1.9,0.2,3.5,2.0,Utilities,10.526315789473685
+136,,Welspun Corp,Mumbai,1.9,0.15,1.5,2.0,Metals and mining,7.894736842105263
+137,,Bosch Limited,Bangalore,1.9,0.2,2.0,10.0,Automotive,10.526315789473685
+138,,Exide Industries,Kolkata,1.9,0.12,1.5,4.0,Automotive,6.315789473684211
+139,,Tata Chemicals,Mumbai,1.9,0.1,3.5,3.5,Chemicals,5.2631578947368425
+140,,L&T Finance Holdings,Mumbai,1.8,0.3,11.0,4.5,Financials,16.666666666666664
+141,,Star Health and Allied Insurance,Chennai,1.8,0.1,2.5,3.8,Insurance,5.555555555555556
+142,,National Aluminium Company,Bhubaneswar,1.8,0.5,2.2,4.0,Metals and mining,27.77777777777778
+143,,Dalmia Bharat,New Delhi,1.8,0.1,2.8,5.0,Cement,5.555555555555556
+144,,Voltas,Mumbai,1.8,0.1,1.2,5.5,Capital goods,5.555555555555556
+145,,Bharat Forge,Pune,1.8,0.15,2.2,6.0,Capital goods,8.333333333333332
+146,,CEAT Limited,Mumbai,1.8,0.07,1.4,1.2,Automotive,3.888888888888889
+147,,Tata Consumer Products,Mumbai,1.8,0.15,4.5,12.0,Consumer Goods,8.333333333333332
+148,,United Breweries,Bangalore,1.8,0.07,1.0,6.0,Consumer Goods,3.888888888888889
+149,,Biocon,Bangalore,1.8,0.04,5.5,4.5,Pharmaceuticals,2.2222222222222223
+150,,RBL Bank,Mumbai,1.7,0.1,13.0,1.6,Banking,5.882352941176471
+151,,Mahindra & Mahindra Financial Services,Mumbai,1.7,0.25,11.0,3.5,Financials,14.705882352941178
+152,,Mphasis,Bangalore,1.7,0.19,1.8,6.0,Infotech,11.176470588235295
+153,,Indraprastha Gas,New Delhi,1.7,0.2,1.7,3.8,Oil and gas,11.764705882352942
+154,,NLC India,Neyveli,1.7,0.3,6.5,3.8,Utilities,17.647058823529413
+155,,Godrej Consumer Products,Mumbai,1.7,0.2,2.3,12.0,Consumer Goods,11.764705882352942
+156,,Pidilite Industries,Mumbai,1.7,0.25,1.7,17.0,Chemicals,14.705882352941178
+157,,SRF Limited,Gurgaon,1.7,0.18,2.4,9.0,Chemicals,10.588235294117647
+158,,JSW Energy,Mumbai,1.5,0.2,6.5,11.0,Utilities,13.333333333333334
+159,,Dabur India,Ghaziabad,1.5,0.2,1.7,11.0,Consumer Goods,13.333333333333334
+160,,Trent Limited,Mumbai,1.5,0.18,1.5,28.0,Retail,12.0
+161,,Alkem Laboratories,Mumbai,1.5,0.2,1.5,7.5,Pharmaceuticals,13.333333333333334
+162,,Waaree Energies,Mumbai,1.4,0.18,1.2,8.0,Renewable energy,12.85714285714286
+163,,ABB India,Bangalore,1.4,0.18,1.3,18.0,Capital goods,12.85714285714286
+164,,United Spirits,Bangalore,1.4,0.2,1.8,12.0,Consumer Goods,14.285714285714288
+165,,Torrent Pharmaceuticals,Ahmedabad,1.4,0.15,1.9,11.0,Pharmaceuticals,10.714285714285715
+166,,Macrotech Developers (Lodha),Mumbai,1.4,0.2,6.5,13.0,Real estate,14.285714285714288
+167,,Hexaware Technologies,Mumbai,1.3,0.14,1.0,6.0,Infotech,10.76923076923077
+168,,NHPC Limited,Faridabad,1.3,0.7,10.5,12.0,Utilities,53.84615384615385
+169,,JK Cement,Kanpur,1.3,0.08,1.6,4.0,Cement,6.153846153846153
+170,,Uno Minda,Gurgaon,1.3,0.09,0.9,6.0,Automotive,6.9230769230769225
+171,,Mankind Pharma,New Delhi,1.3,0.2,1.5,10.0,Pharmaceuticals,15.384615384615385
+172,,Jammu & Kashmir Bank,Srinagar,1.2,0.18,14.0,1.0,Banking,15.0
+173,,IIFL Finance,Mumbai,1.2,0.2,8.0,2.5,Financials,16.666666666666668
+174,,Persistent Systems,Pune,1.2,0.15,1.0,10.0,Infotech,12.5
+175,,Coforge,Noida,1.2,0.12,1.1,5.0,Infotech,10.0
+176,,Suzlon Energy,Pune,1.2,0.1,1.8,9.5,Renewable energy,8.333333333333334
+177,,The Ramco Cements,Chennai,1.2,0.03,1.9,3.0,Cement,2.5
+178,,Supreme Industries,Mumbai,1.2,0.1,0.7,5.0,Capital goods,8.333333333333334
+179,,Mazagon Dock Shipbuilders,Mumbai,1.2,0.29,3.0,14.0,Shipping,24.166666666666668
+180,,Balkrishna Industries,Mumbai,1.2,0.2,1.5,6.0,Automotive,16.666666666666668
+181,,Amara Raja Energy & Mobility,Tirupati,1.2,0.1,1.1,2.5,Automotive,8.333333333333334
+182,,Marico,Mumbai,1.2,0.2,0.9,9.0,Consumer Goods,16.666666666666668
+183,,Berger Paints India,Kolkata,1.2,0.12,0.9,7.0,Chemicals,10.0
+184,,Punjab & Sind Bank,New Delhi,1.1,0.12,12.0,1.5,Banking,10.909090909090907
+185,,Edelweiss Financial Services,Mumbai,1.1,0.1,10.0,1.0,Financials,9.090909090909092
+186,,L&T Technology Services,Mumbai,1.1,0.15,1.0,6.5,Infotech,13.636363636363635
+187,,Thermax,Pune,1.1,0.08,1.0,5.0,Capital goods,7.2727272727272725
+188,,NBCC (India),New Delhi,1.1,0.05,1.5,3.0,Capital goods,4.545454545454546
+189,,Escorts Kubota,Faridabad,1.1,0.15,1.2,4.5,Automotive,13.636363636363635
+190,,Container Corporation of India,New Delhi,1.05,0.15,1.7,6.0,Shipping,14.285714285714285
+191,,Karur Vysya Bank,Karur,1.0,0.19,10.0,2.0,Banking,19.0
+192,,Equitas Small Finance Bank,Chennai,1.0,0.1,5.0,1.2,Banking,10.0
+193,,Piramal Enterprises,Mumbai,1.0,0.1,8.0,2.5,Financials,10.0
+194,,Bajaj Housing Finance,Pune,1.0,0.2,12.0,10.0,Financials,20.0
+195,,Cummins India,Pune,1.0,0.17,1.2,10.0,Capital goods,17.0
+196,,KEI Industries,New Delhi,1.0,0.08,0.7,4.0,Capital goods,8.0
+197,,Blue Star,Mumbai,1.0,0.05,0.6,4.0,Capital goods,5.0
+198,,Welspun Living,Mumbai,1.0,0.08,0.9,1.8,Consumer Goods,8.0
+199,,City Union Bank,Kumbakonam,0.9,0.17,8.0,1.7,Banking,18.88888888888889
+200,,South Indian Bank,Thrissur,0.9,0.12,10.0,0.7,Banking,13.333333333333334
+201,,Manappuram Finance,Thrissur,0.9,0.3,4.5,1.8,Financials,33.33333333333333
+202,,PNB Housing Finance,New Delhi,0.9,0.2,8.5,2.0,Financials,22.222222222222225
+203,,Sundaram Finance,Chennai,0.9,0.2,7.0,5.0,Financials,22.222222222222225
+204,,Cyient,Hyderabad,0.9,0.1,0.9,2.2,Infotech,11.111111111111112
+205,,Sonata Software,Bangalore,0.9,0.07,0.6,1.7,Infotech,7.777777777777778
+206,,Firstsource Solutions,Mumbai,0.9,0.09,1.1,3.0,Infotech,10.0
+207,,Bharti Hexacom,New Delhi,0.9,0.12,1.5,8.0,Telecommunication,13.333333333333334
+208,,Mahanagar Gas,Mumbai,0.9,0.12,0.9,1.5,Oil and gas,13.333333333333334
+209,,Crompton Greaves Consumer Electricals,Mumbai,0.9,0.07,0.6,3.0,Capital goods,7.777777777777778
+210,,Divi's Laboratories,Hyderabad,0.9,0.2,1.7,14.0,Pharmaceuticals,22.222222222222225
+211,,Deepak Nitrite,Ahmedabad,0.9,0.1,0.9,3.8,Chemicals,11.111111111111112
+212,,Zee Entertainment Enterprises,Mumbai,0.9,0.06,1.1,1.5,Media,6.666666666666667
+213,,Fortis Healthcare,Gurgaon,0.85,0.07,1.7,4.5,Healthcare,8.23529411764706
+214,,Max Healthcare Institute,New Delhi,0.85,0.13,1.7,11.0,Healthcare,15.294117647058824
+215,,Ujjivan Small Finance Bank,Bangalore,0.8,0.12,4.5,0.7,Banking,15.0
+216,,PI Industries,Gurgaon,0.8,0.18,1.3,7.0,Chemicals,22.499999999999996
+217,,Indian Hotels Company,Mumbai,0.8,0.15,2.0,11.0,Hospitality,18.749999999999996
+218,,Jubilant FoodWorks,Noida,0.8,0.03,1.0,4.0,Hospitality,3.75
+219,,DCB Bank,Mumbai,0.7,0.09,6.0,0.6,Banking,12.85714285714286
+220,,Housing & Urban Development Corporation,New Delhi,0.7,0.2,10.0,3.0,Financials,28.571428571428577
+221,,CreditAccess Grameen,Bangalore,0.7,0.15,3.8,2.3,Financials,21.42857142857143
+222,,Oracle Financial Services Software,Mumbai,0.7,0.25,1.4,9.0,Infotech,35.714285714285715
+223,,KPIT Technologies,Pune,0.7,0.1,0.6,5.0,Infotech,14.285714285714288
+224,,Colgate-Palmolive (India),Mumbai,0.7,0.15,0.5,9.0,Consumer Goods,21.42857142857143
+225,,Abbott India,Mumbai,0.7,0.15,0.6,7.0,Pharmaceuticals,21.42857142857143
+226,,DLF Limited,Gurgaon,0.7,0.26,7.0,25.0,Real estate,37.142857142857146
+227,,Birlasoft,Pune,0.65,0.08,0.7,2.0,Infotech,12.307692307692307
+228,,Astral Limited,Ahmedabad,0.65,0.07,0.6,5.0,Capital goods,10.76923076923077
+229,,Tamilnad Mercantile Bank,Thoothukudi,0.6,0.12,6.5,0.8,Banking,20.0
+230,,Motilal Oswal Financial Services,Mumbai,0.6,0.25,3.5,6.0,Financials,41.66666666666667
+231,,Zensar Technologies,Pune,0.6,0.07,0.6,1.8,Infotech,11.666666666666668
+232,,Tata Technologies,Pune,0.6,0.1,0.8,4.5,Infotech,16.666666666666668
+233,,Castrol India,Mumbai,0.6,0.1,0.4,2.4,Oil and gas,16.666666666666668
+234,,Sundram Fasteners,Chennai,0.6,0.07,0.6,2.5,Automotive,11.666666666666668
+235,,Godrej Properties,Mumbai,0.6,0.1,5.0,10.0,Real estate,16.666666666666668
+236,,Page Industries,Bangalore,0.55,0.1,0.4,5.0,Consumer Goods,18.181818181818183
+237,,Indian Renewable Energy Development Agency,New Delhi,0.5,0.15,5.5,5.0,Financials,30.0
+238,,Angel One,Mumbai,0.5,0.15,1.8,3.0,Financials,30.0
+239,,JM Financial,Mumbai,0.5,0.1,4.5,1.2,Financials,20.0
+240,,SJVN Limited,Shimla,0.5,0.2,6.5,5.0,Utilities,40.0
+241,,Indian Railway Catering and Tourism Corporation,New Delhi,0.5,0.13,0.9,8.0,Hospitality,26.0
+242,,Cochin Shipyard,Kochi,0.5,0.1,1.3,5.0,Shipping,20.0
+243,,JSW Infrastructure,Mumbai,0.5,0.17,2.5,8.0,Shipping,34.0
+244,,Great Eastern Shipping,Mumbai,0.5,0.2,2.3,1.6,Shipping,40.0
+245,,Oberoi Realty,Mumbai,0.5,0.24,2.5,7.0,Real estate,48.0
+246,,Sun TV Network,Chennai,0.47,0.19,1.5,3.4,Media,40.42553191489362
+247,,Emami,Kolkata,0.42,0.085,0.6,3.2,Consumer Goods,20.23809523809524
+248,,CSB Bank,Thrissur,0.4,0.07,3.5,0.7,Banking,17.5
+249,,Tata Elxsi,Bangalore,0.4,0.1,0.4,5.0,Infotech,25.0
+250,,eClerx Services,Mumbai,0.4,0.09,0.5,1.7,Infotech,22.499999999999996
+251,,Garden Reach Shipbuilders & Engineers,Kolkata,0.4,0.04,0.6,2.0,Shipping,10.0
+252,,Sona BLW Precision Forgings,Gurgaon,0.4,0.08,0.7,4.5,Automotive,20.0
+253,,Can Fin Homes,Bangalore,0.35,0.1,3.5,1.2,Financials,28.571428571428577
+254,,BSE Limited,Mumbai,0.35,0.15,1.2,10.0,Financials,42.85714285714286
+255,,Poonawalla Fincorp,Pune,0.3,0.1,3.5,3.0,Financials,33.333333333333336
+256,,HDFC Asset Management Company,Mumbai,0.3,0.2,0.9,9.0,Financials,66.66666666666667
+257,,360 ONE WAM,Mumbai,0.3,0.12,1.5,3.5,Financials,40.0
+258,,Info Edge India,Noida,0.3,0.1,1.7,10.0,Infotech,33.333333333333336
+259,,Intellect Design Arena,Chennai,0.3,0.04,0.4,1.2,Infotech,13.333333333333334
+260,,Kaynes Technology India,Mysuru,0.3,0.04,0.7,5.0,Capital goods,13.333333333333334
+261,,EIH Limited,New Delhi,0.3,0.07,0.6,2.5,Hospitality,23.333333333333336
+262,,Happiest Minds Technologies,Bangalore,0.25,0.04,0.4,1.5,Infotech,16.0
+263,,Aditya Birla Sun Life AMC,Mumbai,0.2,0.1,0.7,2.0,Financials,50.0
+264,,Aavas Financiers,Jaipur,0.2,0.06,2.0,1.6,Financials,30.0
+265,,Affle India,Gurgaon,0.2,0.05,0.5,2.8,Infotech,25.0
+266,,Newgen Software Technologies,New Delhi,0.2,0.05,0.35,1.5,Infotech,25.0
+267,,Gujarat State Petronet,Gandhinagar,0.2,0.1,1.0,1.8,Oil and gas,50.0
+268,,Hindustan Copper,Kolkata,0.2,0.04,0.5,2.5,Metals and mining,20.0
+269,,Multi Commodity Exchange of India,Mumbai,0.1,0.06,0.5,3.5,Financials,60.0
+270,,Central Depository Services (India),Mumbai,0.1,0.05,0.4,3.5,Financials,50.0
